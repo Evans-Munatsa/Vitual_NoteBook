@@ -34,7 +34,7 @@
 	}
 	.name {
 		@include bold_font;
-		color: $dark_gray;
+		color: $dark_red;
 		margin: 0;
 		font-size: .85rem;
 	}
@@ -73,7 +73,7 @@
 	padding: 7.5rem 0;
 	h2 {
 		@include bold_font;
-		color: $dark_gray;
+		color: $dark_red;
 		font-size: 3rem;
 		margin: 0;
 	}
